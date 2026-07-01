@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# Skenario 1: Untuk Resolusi HD (480p)
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480,NAME="480p"
+https://g244.turbosplayer.com/file/98897463-2ecb-485b-9384-6ba1644506b5/master.m3u8
+
+# Skenario 2: Untuk Resolusi HD (720p)
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,NAME="720p"
+https://g265.turbosplayer.com/file/f8cb06db-1aa8-443d-8b45-b35d7eb28586/master.m3u8
+
+# Skenario 3: Untuk Resolusi Full HD (1080p)
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,NAME="1080p"
+https://edge1-madrid-sprintcdn.r66nv9ed.com/hls2/04/10567/32oiznw1kkra_x/index-v1-a1.m3u8?t=CFOWjhhtrEIaQdUKSfxb6cevblFInbRBo4vAmQp-apE&s=1782600832&e=10800&f=52836873&srv=1075&asn=&sp=5500&p=0
